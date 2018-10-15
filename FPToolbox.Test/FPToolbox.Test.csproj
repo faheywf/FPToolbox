@@ -48,10 +48,11 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UtilityTest.cs" />
+    <Compile Include="Utility.Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EnumerableExtensions.Test.cs" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

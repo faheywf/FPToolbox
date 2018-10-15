@@ -1,12 +1,10 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using FPToolbox;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using static FPToolbox.Utility;
 
 namespace FPToolbox.Test
 {
     [TestClass]
-    public class UtilityTest
+    public class Utility
     {
         [TestMethod]
         public void OptionReturnsSome()
